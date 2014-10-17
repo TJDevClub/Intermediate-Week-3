@@ -1,4 +1,3 @@
-Intermediate-Week-3
-===================
+# Intermediate-Week-3
 
-Twilio &amp; Node.JS
+Twilio &amp; Node.JS lesson for intermediates.
